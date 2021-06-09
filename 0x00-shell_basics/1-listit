@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "$ LS"
+echo " 0-current_working_directory \n 0-current_working_directory~ \n 1-listit \n 1-listit~ \n README.md"
