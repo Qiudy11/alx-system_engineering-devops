@@ -1,0 +1,1 @@
+#scirpt that prints absolute pathway of the current working directory
