@@ -1,4 +1,5 @@
-$pwd: scirpt that prints absolute pathway of the current working directory
-$(ls) :displays the contents list of your current directory
+echo "$pwd" : scirpt that prints absolute pathway of the current working directory
+echo "$(ls)" :displays the contents list of your current directory
 cd: chnages working directory to home directory
- :Displays current directory content in a long format
+ echo "$(ls -l)":Displays current directory content in a long format
+ displays current diectory content including hidden files starting with .
