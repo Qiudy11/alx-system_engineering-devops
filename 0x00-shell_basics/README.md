@@ -7,3 +7,4 @@ echo "$(ls -lna)" : Dipslay current directory content ..long format.. user id an
 $(mkdir /tmp/holberton/) : A script that creates a directory named holberton in the /tmp/ directory
 move the file betty from /tmp/ to /tmp/holberton : $(mv /tmp/betty /tmp/holberton/)
 Delete the file betty in /tmp/holberton : $(rm /tmp/holberton/betty)
+Delete the directory holberton that is in the /tmp directory : $(rmdir /tmp/holberton/)
