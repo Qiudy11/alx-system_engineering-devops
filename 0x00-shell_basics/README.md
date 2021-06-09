@@ -3,3 +3,4 @@ echo "$(ls)" :displays the contents list of your current directory
 cd: chnages working directory to home directory
  echo "$(ls -l)":Displays current directory content in a long format
 echo "$(ls -l -a)": displays current diectory content including hidden files starting with .
+echo "$(ls -lna)" : Dipslay current directory content ..long format.. user id and group id ..hidden files (starting with  .)
