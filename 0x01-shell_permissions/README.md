@@ -1,4 +1,4 @@
-__This file contains file permissions commands for Unix-like systems.__
+__This file contains file permissions commands for Unix-like systems._ \n_
 0. Create a script that switches the current user to the user betty :su betty
 1. Write a script that prints the effective username of the current user : id -un
 2. Write a script that prints all the groups the current user is part of :groups
