@@ -1,2 +1,2 @@
 #!/bin/bash
-echo sudo_$USER 
+id -un 
