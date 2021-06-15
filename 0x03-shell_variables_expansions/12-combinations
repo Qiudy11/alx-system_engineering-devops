@@ -1,2 +1,2 @@
 #!/bin/bash
-echo {a..z}{a..z} | head -64
+echo ls {a..z}{a..z} | head -64
