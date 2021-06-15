@@ -1,0 +1,2 @@
+#!/bin/bash
+$(foo () {name="BETTY" ; Value="Holberton" }\n
